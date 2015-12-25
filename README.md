@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-#git 教程
-=======
-#Git教程
-
-this is yctbranch git.php
->>>>>>> yctbranch
+#git教程
+-yctbranch
+-yctbranch2
+merged file
