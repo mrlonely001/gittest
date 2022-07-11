@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T07:58:57.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="fiHZmL6RHxTUNgd9Rq_d" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T08:07:09.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="at9eDFY9q0oPKDQIl-Hj" version="20.0.4" type="github">
   <diagram name="Page-1" id="fc2ac565-0d4e-3f0d-88b0-a54af1634ed7">
     <mxGraphModel dx="1258" dy="490" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="I9fv8p5_7N1Rlb_XpEn9-101" value="2022-12" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="1527" y="130" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-103" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; 切换全国门店" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-103" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;切换全国门店" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="200" width="207" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I9fv8p5_7N1Rlb_XpEn9-104" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
@@ -66,6 +66,12 @@
         </mxCell>
         <mxCell id="I9fv8p5_7N1Rlb_XpEn9-105" value="2022-02-23" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=14;align=center;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="705" y="200" width="164" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-107" value="调价策略调整：&lt;br&gt;1、优先智能预警，同时增加强制调价&lt;br&gt;2、调整在售台数阈值&lt;br&gt;3、部分车源只调整金融价&lt;br&gt;4、调拨车源调价" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="250" width="207" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-108" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617" y="250" width="980" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
