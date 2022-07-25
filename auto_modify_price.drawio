@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T09:33:45.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="FGPbux_DuWaoXwRQYwvp" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T01:13:38.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Fw8pkXLqbC-KGxTc7X22" version="20.1.1" type="github">
   <diagram name="Page-1" id="fc2ac565-0d4e-3f0d-88b0-a54af1634ed7">
-    <mxGraphModel dx="2287" dy="953" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="1196" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -52,124 +52,124 @@
         <mxCell id="67c90442a009f359-299" value="2021-12-02&lt;br&gt;上线" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="618" y="151" width="87" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-100" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2022-11&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-100" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2022-11&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="1457" y="88" width="70" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-101" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2022-12&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-101" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2022-12&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="1527" y="88" width="70" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-103" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;切换全国门店" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-103" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;切换全国门店" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="200" width="207" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-104" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-104" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="617" y="200" width="980" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-105" value="2022-02-23上线" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-105" value="2022-02-23上线" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="705" y="200" width="158" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-107" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;调价策略调整：&lt;br&gt;&amp;nbsp;1、优先智能预警，同时增加强制调价&lt;br&gt;&amp;nbsp;2、调整在售台数阈值&lt;br&gt;&amp;nbsp;3、部分车源只调整金融价&lt;br&gt;&amp;nbsp;4、调拨车源调价" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-107" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;调价策略调整：&lt;br&gt;&amp;nbsp;1、优先智能预警，同时增加强制调价&lt;br&gt;&amp;nbsp;2、调整在售台数阈值&lt;br&gt;&amp;nbsp;3、部分车源只调整金融价&lt;br&gt;&amp;nbsp;4、调拨车源调价" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="250" width="207" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-108" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-108" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="617" y="250" width="980" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-109" value="2022-03-10上线" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#020203;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-109" value="2022-03-10上线" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#020203;" parent="1" vertex="1">
           <mxGeometry x="863" y="250" width="78" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-110" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;新增120天以上调价策略" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-110" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;新增120天以上调价策略" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="342" width="207" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-111" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-111" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="617" y="342" width="980" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-112" value="2022-04-15上线" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-112" value="2022-04-15上线" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="941" y="343" width="74" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-113" value="&amp;nbsp; &amp;nbsp; 新增击穿成本最大值策略；&lt;br&gt;&amp;nbsp; &amp;nbsp; 连续30天未调价调整到更高性价比" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-113" value="&amp;nbsp; &amp;nbsp; 新增击穿成本最大值策略；&lt;br&gt;&amp;nbsp; &amp;nbsp; 连续30天未调价调整到更高性价比" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="387" width="207" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-114" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-114" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="617" y="387" width="980" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-116" value="2022-05-09上线" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-116" value="2022-05-09上线" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1017" y="387" width="43" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-117" value="&amp;nbsp; &amp;nbsp; 销量视角下，不同采购时间长库龄&lt;br&gt;&amp;nbsp; &amp;nbsp; 车源占比分析，并批量调整3月采购&lt;br&gt;&amp;nbsp; &amp;nbsp; 车源价格。" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-117" value="&amp;nbsp; &amp;nbsp; 销量视角下，不同采购时间长库龄&lt;br&gt;&amp;nbsp; &amp;nbsp; 车源占比分析，并批量调整3月采购&lt;br&gt;&amp;nbsp; &amp;nbsp; 车源价格。" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="440" width="207" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-118" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-118" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="617" y="440" width="980" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-119" value="2022-06-22&lt;br&gt;上线" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-119" value="2022-06-22&lt;br&gt;上线" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1060" y="440" width="80" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-120" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;二价合一后暂停调价" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-120" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;二价合一后暂停调价" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="496" width="207" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-121" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-121" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="617" y="495" width="981" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-122" value="2022-07-01&lt;br&gt;上线" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-122" value="2022-07-01&lt;br&gt;上线" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1140" y="496" width="40" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-123" value="&amp;nbsp; &amp;nbsp; 二价合一后新的调价策略：&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px;&quot;&gt;30-120 40%&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp;120-180&amp;nbsp; 30% 不击穿成本&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp;180-max 20%&amp;nbsp; &amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp;击穿最大值&lt;br&gt;&amp;nbsp;【0.2&amp;nbsp; 0.35&amp;nbsp; 0.5&amp;nbsp; 0.65&amp;nbsp; 0.8&amp;nbsp; 1.2】&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-123" value="&amp;nbsp; &amp;nbsp; 二价合一后新的调价策略：&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px;&quot;&gt;30-120 40%&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp;120-180&amp;nbsp; 30% 不击穿成本&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp;180-max 20%&amp;nbsp; &amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp;击穿最大值&lt;br&gt;&amp;nbsp;【0.2&amp;nbsp; 0.35&amp;nbsp; 0.5&amp;nbsp; 0.65&amp;nbsp; 0.8&amp;nbsp; 1.2】&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="560" width="207" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-124" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-124" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="618" y="560" width="982" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-125" value="2022-07-15" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ACDB7E;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-125" value="2022-07-19上线" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1180" y="560" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-126" value="&amp;nbsp; &amp;nbsp; 车系同配置性价比模型" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-126" value="&amp;nbsp; &amp;nbsp; 车系同配置性价比模型" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="680" width="207" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-127" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-127" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="618" y="680" width="982" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-128" value="2022-08&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#E99899;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-128" value="2022-08&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ACDB7E;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1230" y="680" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-129" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;调价推广联动 初版" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-129" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;调价推广联动 初版" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="720" width="207" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-130" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-130" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="618" y="720" width="982" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-131" value="2022-10&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#E99899;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-131" value="2022-10&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#B3B3B3;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1320" y="720" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-132" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;库存智能化&amp;nbsp; 收益优化" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-132" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;库存智能化&amp;nbsp; 收益优化" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="760" width="207" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-133" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-133" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="618" y="760" width="982" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-134" value="2022-12&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#E99899;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-134" value="2022-12&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#B3B3B3;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1460" y="760" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-135" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;库存智能化处理&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-135" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;库存智能化处理&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="88" width="207" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-136" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2021-11&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-136" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2021-11&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="617" y="88" width="70" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-137" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2021-12&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-137" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2021-12&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="687" y="88" width="70" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-138" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2022-01&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-138" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2022-01&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="757" y="88" width="70" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-139" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2022-02&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-139" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2022-02&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="827" y="88" width="70" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-140" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2022-03&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-140" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2022-03&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="897" y="88" width="70" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-141" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2022-04&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-141" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2022-04&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="967" y="88" width="70" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-142" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2022-05&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-142" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;2022-05&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="1037" y="88" width="70" height="63" as="geometry" />
         </mxCell>
       </root>
