@@ -1,1 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T02:59:26.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="eww9wTR_CEMIqFRxUA_S" type="github"><diagram id="QjvPeB_bTAE3fdZoPAzL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-02T04:25:14.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="ImWDtGUvA6hPf2yLhEm9" type="github">
+  <diagram id="7jMcVTaSKbLTG11D5n-k" name="第 1 页">
+    <mxGraphModel dx="-1500" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wvx19moBlmHvsNVBward-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2873.3996202531644" y="208.99583333333328" as="sourcePoint" />
+            <mxPoint x="2790" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-64" value="小于等于120天" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wvx19moBlmHvsNVBward-10">
+          <mxGeometry x="0.441" y="-5" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;预警车源&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2775" y="184" width="212.48" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-54" value="&lt;h1&gt;&lt;font style=&quot;font-size: 48px;&quot; color=&quot;#000000&quot;&gt;调价流程&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="2796.477088607595" y="10" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2883.3996202531644" y="208.9958333333334" as="sourcePoint" />
+            <mxPoint x="2960" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-66" value="大于120天" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wvx19moBlmHvsNVBward-65">
+          <mxGeometry x="0.441" y="-5" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-67" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;车型性价比模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2663" y="274" width="212.48" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-68" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;同基本配置车系模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2923" y="274" width="227" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Wvx19moBlmHvsNVBward-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2790.3996202531644" y="300.9958333333334" as="sourcePoint" />
+            <mxPoint x="2843" y="366" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-71" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Wvx19moBlmHvsNVBward-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3026.9996202531643" y="298.9958333333334" as="sourcePoint" />
+            <mxPoint x="2918" y="364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Wvx19moBlmHvsNVBward-72" target="Wvx19moBlmHvsNVBward-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-72" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;参考数据量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2939" y="338" width="227" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Wvx19moBlmHvsNVBward-73" target="Wvx19moBlmHvsNVBward-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-73" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;参考数据量&amp;nbsp; &amp;amp;&amp;nbsp; &amp;nbsp;线索增量（小于90）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2503" y="338" width="384" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-75" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;40%性价比&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2600" y="389.5" width="156" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-76" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;120-180 40% 180以上 20% 性价比&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2923" y="385" width="299" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Wvx19moBlmHvsNVBward-78" target="Wvx19moBlmHvsNVBward-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-78" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;连续30天未调减15%&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2600" y="438" width="186" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="Wvx19moBlmHvsNVBward-79" target="Wvx19moBlmHvsNVBward-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-79" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;连续30天未调减15%&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2959.5" y="442" width="186" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-82" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;是否超限（采购总成本）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2589" y="495" width="208" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-84" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;是否超限&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&quot;0-5w(含)&quot;: 0.1, &quot;05-10w(含)&quot;: 0.25, &quot;10-15w(含)&quot;: 0.4, &quot;15-20w(含)&quot;: 0.45, &quot;20-30w(含)&quot;: 0.55, &quot;30w以上&quot;: 0.65&lt;/font&gt;&lt;br&gt;&lt;br&gt;&quot;0-5w(含)&quot;: 0.2, &quot;05-10w(含)&quot;: 0.35, &quot;10-15w(含)&quot;: 0.5, &quot;15-20w(含)&quot;: 0.65, &quot;20-30w(含)&quot;: 0.8, &quot;30w以上&quot;: 1.2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2956.37" y="491" width="192.25" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-86" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;过滤封店、瓜子活动车&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2751" y="692" width="224" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wvx19moBlmHvsNVBward-82" target="Wvx19moBlmHvsNVBward-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2752.309620253164" y="676.9958333333334" as="sourcePoint" />
+            <mxPoint x="2850" y="727" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wvx19moBlmHvsNVBward-92" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.558;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Wvx19moBlmHvsNVBward-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3048.309620253164" y="639.9958333333334" as="sourcePoint" />
+            <mxPoint x="2976.9987855196946" y="677" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
