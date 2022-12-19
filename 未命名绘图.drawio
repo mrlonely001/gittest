@@ -1,1 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T07:15:24.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.5.3" etag="MVH2je5WPHw-dMIrgMzV" type="github"><diagram id="9H7ylQ0CBS7OcGbB-OY6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-19T07:29:42.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="B0nSYR6b9-U4sucuk3d2" version="20.5.3" type="github">
+  <diagram id="9H7ylQ0CBS7OcGbB-OY6" name="第 1 页">
+    <mxGraphModel dx="872" dy="408" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;20221219调价流程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1327" y="251" width="297" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1069" y="382" width="774" height="608" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="XTFeWGf_-osxXNOz8sGO-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="398.7333881445747" y="28.51307066916817" as="sourcePoint" />
+            <mxPoint x="308.9541029207232" y="98.10131332082551" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-27" value="小于等于90天" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XTFeWGf_-osxXNOz8sGO-26">
+          <mxGeometry x="0.441" y="-5" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;预警车源&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XTFeWGf_-osxXNOz8sGO-25">
+          <mxGeometry x="292.8066759388039" width="228.73368567454796" height="28.517823639774857" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="XTFeWGf_-osxXNOz8sGO-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.49833946585426" y="28.5130706691683" as="sourcePoint" />
+            <mxPoint x="491.9582753824756" y="98.10131332082551" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-30" value="大于90天" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XTFeWGf_-osxXNOz8sGO-29">
+          <mxGeometry x="0.441" y="-5" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;车型性价比模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XTFeWGf_-osxXNOz8sGO-25">
+          <mxGeometry x="172.23922114047286" y="102.66416510318949" width="228.73368567454796" height="28.517823639774857" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;同基本配置车系模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XTFeWGf_-osxXNOz8sGO-25">
+          <mxGeometry x="452.1279554937413" y="102.66416510318949" width="244.3643949930459" height="28.517823639774857" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="XTFeWGf_-osxXNOz8sGO-25" target="XTFeWGf_-osxXNOz8sGO-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="309.38429217795436" y="133.45866166353977" as="sourcePoint" />
+            <mxPoint x="366.00834492350486" y="207.60975609756096" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XTFeWGf_-osxXNOz8sGO-25" target="XTFeWGf_-osxXNOz8sGO-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564.0830404394286" y="131.1772357723578" as="sourcePoint" />
+            <mxPoint x="446.7454798331015" y="205.32833020637898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;参考数据量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XTFeWGf_-osxXNOz8sGO-25">
+          <mxGeometry x="469.3518776077886" y="175.66979362101313" width="244.3643949930459" height="28.517823639774857" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;首先判断线索增量&amp;nbsp; &amp;amp;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;参考数据量&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XTFeWGf_-osxXNOz8sGO-25">
+          <mxGeometry y="175.66979362101313" width="413.3741307371349" height="28.517823639774857" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-37" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;40%性价比&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XTFeWGf_-osxXNOz8sGO-25">
+          <mxGeometry x="104.42002781641168" y="234.41651031894935" width="167.93324061196105" height="21.673545966228893" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-38" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;120-180 40% 180以上 20% 性价比&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XTFeWGf_-osxXNOz8sGO-25">
+          <mxGeometry x="452.1279554937413" y="229.28330206378988" width="321.8720445062587" height="26.806754221388367" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;连续30天未调减15%&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XTFeWGf_-osxXNOz8sGO-25">
+          <mxGeometry x="104.42002781641168" y="289.74108818011257" width="200.2280945757997" height="21.673545966228893" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="XTFeWGf_-osxXNOz8sGO-25" source="XTFeWGf_-osxXNOz8sGO-36" target="XTFeWGf_-osxXNOz8sGO-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-41" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;连续30天未调减15%&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XTFeWGf_-osxXNOz8sGO-25">
+          <mxGeometry x="491.4200278164117" y="294.30393996247653" width="200.2280945757997" height="21.673545966228893" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="XTFeWGf_-osxXNOz8sGO-25" source="XTFeWGf_-osxXNOz8sGO-35" target="XTFeWGf_-osxXNOz8sGO-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-43" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;是否超限（采购总成本）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XTFeWGf_-osxXNOz8sGO-25">
+          <mxGeometry x="92.57858136300416" y="354.76172607879926" width="223.91098748261473" height="21.673545966228893" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="XTFeWGf_-osxXNOz8sGO-25" source="XTFeWGf_-osxXNOz8sGO-39" target="XTFeWGf_-osxXNOz8sGO-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-45" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;是否超限&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&quot;0-5w(含)&quot;: 0.1, &quot;05-10w(含)&quot;: 0.25, &quot;10-15w(含)&quot;: 0.4, &quot;15-20w(含)&quot;: 0.45, &quot;20-30w(含)&quot;: 0.55, &quot;30w以上&quot;: 0.65&lt;/font&gt;&lt;br&gt;&lt;br&gt;&quot;0-5w(含)&quot;: 0.2, &quot;05-10w(含)&quot;: 0.35, &quot;10-15w(含)&quot;: 0.5, &quot;15-20w(含)&quot;: 0.65, &quot;20-30w(含)&quot;: 0.8, &quot;30w以上&quot;: 1.2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XTFeWGf_-osxXNOz8sGO-25">
+          <mxGeometry x="488.05059805285106" y="350.19887429643524" width="206.95618915159943" height="169.96622889305814" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="XTFeWGf_-osxXNOz8sGO-25" source="XTFeWGf_-osxXNOz8sGO-41" target="XTFeWGf_-osxXNOz8sGO-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-47" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;过滤封店、瓜子活动车&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XTFeWGf_-osxXNOz8sGO-25">
+          <mxGeometry x="266.970792767733" y="579.4821763602251" width="241.13490959666203" height="28.517823639774857" as="geometry" />
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XTFeWGf_-osxXNOz8sGO-25" source="XTFeWGf_-osxXNOz8sGO-43" target="XTFeWGf_-osxXNOz8sGO-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="268.3805925952004" y="562.3667292057537" as="sourcePoint" />
+            <mxPoint x="373.54381084840054" y="619.40712945591" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XTFeWGf_-osxXNOz8sGO-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.558;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="XTFeWGf_-osxXNOz8sGO-25" target="XTFeWGf_-osxXNOz8sGO-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="587.0231517050752" y="520.1603502188868" as="sourcePoint" />
+            <mxPoint x="510.25738524651405" y="562.3714821763602" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
