@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T08:08:15.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="1uL85CafY3EnJf1RrAaC" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T09:55:48.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="awJZ75wNuhftVbND_Wct" version="20.5.3" type="github">
   <diagram id="9H7ylQ0CBS7OcGbB-OY6" name="第 1 页">
     <mxGraphModel dx="1046" dy="490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -54,16 +54,13 @@
           <mxGeometry x="1538.35" y="557.67" width="244.36" height="30.33" as="geometry" />
         </mxCell>
         <mxCell id="XTFeWGf_-osxXNOz8sGO-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;首先判断线索增量&amp;nbsp; &amp;amp;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;参考数据量&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1069" y="557.6697936210131" width="413.3741307371349" height="28.517823639774857" as="geometry" />
+          <mxGeometry x="1069" y="557.67" width="413.37" height="27.33" as="geometry" />
         </mxCell>
         <mxCell id="XTFeWGf_-osxXNOz8sGO-37" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;40%性价比&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1173.4200278164117" y="616.4165103189493" width="167.93324061196105" height="21.673545966228893" as="geometry" />
         </mxCell>
         <mxCell id="XTFeWGf_-osxXNOz8sGO-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;连续30天未调减15%&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1173.4200278164117" y="671.7410881801126" width="200.2280945757997" height="21.673545966228893" as="geometry" />
-        </mxCell>
-        <mxCell id="XTFeWGf_-osxXNOz8sGO-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="XTFeWGf_-osxXNOz8sGO-36" target="XTFeWGf_-osxXNOz8sGO-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XTFeWGf_-osxXNOz8sGO-41" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;连续30天未调减15%&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1561.9100278164115" y="746.5639399624765" width="200.2280945757997" height="21.673545966228893" as="geometry" />
@@ -133,6 +130,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1819" y="707" as="sourcePoint" />
             <mxPoint x="1958.4840751043112" y="788.0039399624766" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEneihulK7k6ly92K3hE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.397;entryY=0.058;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XTFeWGf_-osxXNOz8sGO-37" target="XTFeWGf_-osxXNOz8sGO-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1283.5" y="703.4146341463413" as="sourcePoint" />
+            <mxPoint x="1283.5" y="746.7617260787993" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEneihulK7k6ly92K3hE-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.484;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XTFeWGf_-osxXNOz8sGO-36" target="XTFeWGf_-osxXNOz8sGO-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1459" y="555" as="sourcePoint" />
+            <mxPoint x="1509" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
