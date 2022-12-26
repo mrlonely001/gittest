@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T03:44:49.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4ivVAGcS_t9dvHYSldne" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-26T02:10:36.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4TRyxkparooql3kAOV9D" version="20.7.4" type="github">
   <diagram name="Page-1" id="fc2ac565-0d4e-3f0d-88b0-a54af1634ed7">
-    <mxGraphModel dx="1046" dy="490" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2643" dy="1261" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -136,14 +136,14 @@
         <mxCell id="I9fv8p5_7N1Rlb_XpEn9-131" value="2022-10&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#DFF8FF;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1386" y="805" width="81" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-132" value="1、调价策略关联线索量变化&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;2、库存智能化&amp;nbsp; 收益优化" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
-          <mxGeometry x="408" y="871" width="209" height="40" as="geometry" />
+        <mxCell id="I9fv8p5_7N1Rlb_XpEn9-132" value="0、接手推荐系统。&lt;br&gt;1、调价策略关联线索量变化&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;br&gt;2、库存智能化&amp;nbsp; 收益优化" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
+          <mxGeometry x="408" y="871" width="210" height="57" as="geometry" />
         </mxCell>
         <mxCell id="I9fv8p5_7N1Rlb_XpEn9-133" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
-          <mxGeometry x="618" y="871" width="979" height="40" as="geometry" />
+          <mxGeometry x="619" y="871" width="978" height="55" as="geometry" />
         </mxCell>
         <mxCell id="I9fv8p5_7N1Rlb_XpEn9-134" value="2022-12&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ACDB7E;gradientColor=none;fontSize=14;align=center;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1457" y="871" width="146" height="40" as="geometry" />
+          <mxGeometry x="1458" y="871" width="145" height="53" as="geometry" />
         </mxCell>
         <mxCell id="I9fv8p5_7N1Rlb_XpEn9-135" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;库存智能化处理&lt;/font&gt;" style="strokeWidth=1;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="88" width="207" height="63" as="geometry" />
