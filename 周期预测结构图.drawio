@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T03:51:01.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="4WvfEbno-26uEkB7Cd65" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-17T03:53:56.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Qy_OBOxCdCh0ttzMq9Jg" version="20.8.20" type="github">
   <diagram name="第 1 页" id="tffvoCzg-qfJbZ5mcpD_">
     <mxGraphModel dx="1058" dy="492" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="151" y="46" width="932" height="145" as="geometry" />
         </mxCell>
         <mxCell id="4fyiVSz0k1n7hgALqca6-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;业务问题转化：&amp;nbsp; 由于展示价格的变化会直接影响该车售出的概率，故价格每次变动（首次定价 、每次调价）后，重新给出预测周期。&lt;br&gt;&lt;br&gt;数据集构造：&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="93" y="481" width="858" height="97" as="geometry" />
+          <mxGeometry x="99" y="441" width="858" height="97" as="geometry" />
         </mxCell>
         <mxCell id="HPPEBPCjuNj7nKs7fR4j-7" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="122" y="217" width="801" height="209" as="geometry" />
@@ -96,6 +96,21 @@
         </mxCell>
         <mxCell id="HPPEBPCjuNj7nKs7fR4j-5" value="20-30天" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fontSize=14;rotation=5;" vertex="1" parent="HPPEBPCjuNj7nKs7fR4j-6">
           <mxGeometry x="140" y="23" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPPEBPCjuNj7nKs7fR4j-8" value="二分类模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="339" y="632" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HPPEBPCjuNj7nKs7fR4j-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FFFFFF;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="225" y="551.5" width="117" height="221" as="geometry" />
+        </mxCell>
+        <mxCell id="HPPEBPCjuNj7nKs7fR4j-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="543" y="609" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HPPEBPCjuNj7nKs7fR4j-13" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.06;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="HPPEBPCjuNj7nKs7fR4j-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459" y="663" as="sourcePoint" />
+            <mxPoint x="509" y="613" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
