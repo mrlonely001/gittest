@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T03:30:11.431Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="kDXB6dErzIkVWB3KaCfc" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T03:33:36.977Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="50hqIQP69vtNMWzMWAPp" version="22.0.8" type="github">
   <diagram id="9H7ylQ0CBS7OcGbB-OY6" name="第 1 页">
     <mxGraphModel dx="911" dy="586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -206,6 +206,15 @@
         </mxCell>
         <mxCell id="3Ftk8rHP4F3CbFdeY5we-24" value="偏差" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1647.5" y="176" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3Ftk8rHP4F3CbFdeY5we-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.786;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1515.3225000000002" y="230.01000000000022" as="targetPoint" />
+            <mxPoint x="1516" y="151.20000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3Ftk8rHP4F3CbFdeY5we-25" value="策略叠加：前15天线索为0则下架" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1463" y="112" width="111" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
