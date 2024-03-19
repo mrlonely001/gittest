@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T07:28:36.964Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="26aNXWFsAGpluClRpgvW" version="24.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-19T07:34:18.207Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wzJqtAapfUpeZLJpJiZO" version="24.0.7" type="github" pages="2">
   <diagram id="RfeyqDkDFPOXAXIqaQ34" name="智能营销">
     <mxGraphModel dx="1158" dy="581" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,8 +225,8 @@
         <mxCell id="6T8eXfCHcwoCU39sICfd-31" value="xxxx店-库存性价比分布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="116" y="264" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6T8eXfCHcwoCU39sICfd-68" value="&lt;div&gt;问题：&lt;/div&gt;&lt;ul&gt;&lt;li&gt;门店在库车源口径要与业务统一&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;车系性价比 or 车型性价比 ？&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;同省&amp;nbsp; 全国&amp;nbsp; 都给？ 其一？&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;多平台？ 单平台？ 合并？&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;同车系近n天均值？ 只能跟门店车对比&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="814" y="65" width="247" height="169" as="geometry" />
+        <mxCell id="6T8eXfCHcwoCU39sICfd-68" value="&lt;div&gt;问题：&lt;/div&gt;&lt;ul&gt;&lt;li&gt;门店在库车源口径要与业务统一&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;车系性价比 or 车型性价比 ？&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;同省&amp;nbsp; 全国&amp;nbsp; 都给？ 其一？&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;多平台？ 单平台？ 合并？&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;同车系近n天均值？ 只能跟门店车对比&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;性价比分值和目标价联动&amp;nbsp; 接口？&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="814" y="65" width="268" height="212" as="geometry" />
         </mxCell>
         <mxCell id="6T8eXfCHcwoCU39sICfd-146" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="487" y="527" width="302" height="108" as="geometry" />
