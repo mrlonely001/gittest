@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T03:50:37.400Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ih1tgU2-31Oc1M05XgjW" version="24.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-19T03:58:08.427Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="q6gP9emraphbeQWojmeU" version="24.0.7" type="github" pages="2">
   <diagram id="RfeyqDkDFPOXAXIqaQ34" name="智能营销">
     <mxGraphModel dx="1158" dy="581" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
           <mxGeometry x="118" y="298" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6T8eXfCHcwoCU39sICfd-32" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="129" y="659" width="275" height="476" as="geometry" />
+          <mxGeometry x="136" y="659" width="275" height="476" as="geometry" />
         </mxCell>
         <mxCell id="6T8eXfCHcwoCU39sICfd-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="6T8eXfCHcwoCU39sICfd-32">
           <mxGeometry width="275" height="119" as="geometry" />
@@ -280,7 +280,7 @@
             <mxRectangle width="89" height="119" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6T8eXfCHcwoCU39sICfd-40" value="20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="6T8eXfCHcwoCU39sICfd-37">
+        <mxCell id="6T8eXfCHcwoCU39sICfd-40" value="60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="6T8eXfCHcwoCU39sICfd-37">
           <mxGeometry x="182" width="93" height="119" as="geometry">
             <mxRectangle width="93" height="119" as="alternateBounds" />
           </mxGeometry>
@@ -734,6 +734,9 @@
         </mxCell>
         <mxCell id="6T8eXfCHcwoCU39sICfd-170" value="价格 由低到高" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6T8eXfCHcwoCU39sICfd-160">
           <mxGeometry y="53.252336448598136" width="254" height="20.747663551401867" as="geometry" />
+        </mxCell>
+        <mxCell id="6T8eXfCHcwoCU39sICfd-172" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="512" y="924" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
