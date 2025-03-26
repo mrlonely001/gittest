@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="itZnU8-O1z1cKu7S_E5a-29" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="201" y="130" width="791" height="224" as="geometry" />
+        <mxCell id="itZnU8-O1z1cKu7S_E5a-29" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="198.5" y="127" width="791" height="224" as="geometry" />
         </mxCell>
-        <mxCell id="itZnU8-O1z1cKu7S_E5a-19" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="itZnU8-O1z1cKu7S_E5a-19" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B5739D;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="219" y="140" width="750" height="114" as="geometry" />
         </mxCell>
         <mxCell id="itZnU8-O1z1cKu7S_E5a-4" value="pricing tasks mq" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
