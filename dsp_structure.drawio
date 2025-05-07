@@ -236,8 +236,11 @@
         <mxCell id="T7qoQ7lvPFL74FgqGg6b-52" value="B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="969" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T7qoQ7lvPFL74FgqGg6b-55" value="车况 20% 80%" style="shape=xor;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="231" y="1607" width="169" height="98.5" as="geometry" />
+        <mxCell id="T7qoQ7lvPFL74FgqGg6b-55" value="&amp;nbsp;80%" style="shape=xor;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="259.5" y="1578.5" width="112" height="98.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T7qoQ7lvPFL74FgqGg6b-56" value="车况 20%" style="shape=xor;whiteSpace=wrap;html=1;rotation=-91;" vertex="1" parent="1">
+          <mxGeometry x="259.5" y="1444" width="112" height="98.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
