@@ -647,8 +647,26 @@
         <mxCell id="6JlciY9J8boPAsJgcH0p-30" value="Mean（DSP，ML）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="731.3499999999999" y="2440" width="118" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="6JlciY9J8boPAsJgcH0p-32" value="DynamicCPI full&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Mean（DSP， ML）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="546" y="2495" width="533" height="56" as="geometry" />
+        <mxCell id="6JlciY9J8boPAsJgcH0p-32" value="DynamicCPI full&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Mean（DSP， ML）&amp;nbsp; &amp;nbsp;diff rate &amp;lt; 3%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="523.85" y="2495" width="533" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="6JlciY9J8boPAsJgcH0p-35" value="DynamicCPI full to purchase" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="538" y="2579" width="177.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6JlciY9J8boPAsJgcH0p-36" value="Mean（ Mean（ML, DSP&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）, DynamicCPI full to purchase )&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="785.78" y="2579" width="372.75" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6JlciY9J8boPAsJgcH0p-37" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="849.35" y="2316.5" width="35" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6JlciY9J8boPAsJgcH0p-39" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="839" y="2435" width="35" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6JlciY9J8boPAsJgcH0p-40" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="704" y="2579" width="35" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6JlciY9J8boPAsJgcH0p-41" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1133" y="2579" width="35" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
