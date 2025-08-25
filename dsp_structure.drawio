@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6JlciY9J8boPAsJgcH0p-43" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="684" y="2437.5" width="516" height="79.5" as="geometry" />
+        </mxCell>
         <mxCell id="itZnU8-O1z1cKu7S_E5a-29" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="198.5" y="127" width="791" height="224" as="geometry" />
         </mxCell>
@@ -606,67 +609,70 @@
           <mxGeometry x="32.99999999999994" y="2080" width="132" height="8" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-13" value="ALL not None" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="726.47" y="2093" width="92" height="22" as="geometry" />
+          <mxGeometry x="692.07" y="1974" width="92" height="22" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-14" value="ML" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="639.78" y="2045" width="60" height="30" as="geometry" />
+          <mxGeometry x="605.38" y="1926" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-15" value="CPI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="845.78" y="2045" width="60" height="30" as="geometry" />
+          <mxGeometry x="811.38" y="1926" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-16" value="DSP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="746.78" y="2045" width="60" height="30" as="geometry" />
+          <mxGeometry x="712.38" y="1926" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-19" value="CPI arr&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="639" y="2143" width="60" height="30" as="geometry" />
+          <mxGeometry x="604.6" y="2024" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-20" value="country CPI arr&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850.22" y="2144" width="141.78" height="29" as="geometry" />
+          <mxGeometry x="815.82" y="2025" width="141.78" height="29" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-21" value="province CPI arr&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="726.9300000000001" y="2148.5" width="109" height="18" as="geometry" />
+          <mxGeometry x="692.5300000000001" y="2029.5" width="109" height="18" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-22" value="Dynamic CPI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="643.9999999999999" y="2200" width="141.78" height="29" as="geometry" />
+          <mxGeometry x="609.5999999999999" y="2081" width="141.78" height="29" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-23" value="Final&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="171.7" y="2502" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-24" value="Mean（DSP， ML）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="797" y="2202" width="141.78" height="29" as="geometry" />
+          <mxGeometry x="762.6" y="2083" width="141.78" height="29" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-25" value="&amp;nbsp; 【Dynamic CPI】—【Mean（DSP， ML）CPI】 &amp;lt; 0.2&amp;nbsp; &amp;nbsp;&amp;amp;&amp;amp;&amp;nbsp; 【Dynamic CPI】 &amp;gt;&amp;nbsp; 【Mean（DSP， ML）CPI】" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="483.7000000000001" y="2256" width="613.3" height="54" as="geometry" />
+          <mxGeometry x="449.3000000000001" y="2137" width="613.3" height="54" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-28" value="&amp;nbsp; 【Dynamic CPI】+ 0.2&amp;nbsp; &amp;lt; 【Mean（DSP， ML）CPI】&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;amp;&amp;amp;&amp;nbsp; &amp;nbsp; &amp;nbsp; 【ml dsp diff rate】&amp;lt;= 3%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="474.40000000000003" y="2366" width="613.3" height="54" as="geometry" />
+          <mxGeometry x="440.00000000000006" y="2247" width="613.3" height="54" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-29" value="Mean（DSP，ML）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="735.6999999999999" y="2323" width="118" height="23" as="geometry" />
+          <mxGeometry x="701.3" y="2204" width="118" height="23" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-30" value="Mean（DSP，ML）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="731.3499999999999" y="2440" width="118" height="23" as="geometry" />
+          <mxGeometry x="696.9499999999999" y="2321" width="118" height="23" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-32" value="DynamicCPI full&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Mean（DSP， ML）&amp;nbsp; &amp;nbsp;diff rate &amp;lt; 3%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="523.85" y="2495" width="533" height="56" as="geometry" />
+          <mxGeometry x="489.45000000000005" y="2376" width="533" height="56" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-35" value="DynamicCPI full to purchase" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="538" y="2579" width="177.5" height="36" as="geometry" />
+          <mxGeometry x="453.73" y="2460" width="177.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="6JlciY9J8boPAsJgcH0p-36" value="Mean（ Mean（ML, DSP&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）, DynamicCPI full to purchase )&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="785.78" y="2579" width="372.75" height="36" as="geometry" />
+          <mxGeometry x="744.75" y="2460" width="372.75" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="6JlciY9J8boPAsJgcH0p-37" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="849.35" y="2316.5" width="35" height="36" as="geometry" />
+        <mxCell id="6JlciY9J8boPAsJgcH0p-37" value="1" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="814.95" y="2197.5" width="35" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="6JlciY9J8boPAsJgcH0p-39" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="839" y="2435" width="35" height="36" as="geometry" />
+        <mxCell id="6JlciY9J8boPAsJgcH0p-39" value="2" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="804.6" y="2316" width="35" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="6JlciY9J8boPAsJgcH0p-40" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="704" y="2579" width="35" height="36" as="geometry" />
+        <mxCell id="6JlciY9J8boPAsJgcH0p-40" value="3" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="619.73" y="2460" width="35" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="6JlciY9J8boPAsJgcH0p-41" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1133" y="2579" width="35" height="36" as="geometry" />
+        <mxCell id="6JlciY9J8boPAsJgcH0p-41" value="4" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1091" y="2459.25" width="35" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6JlciY9J8boPAsJgcH0p-42" value="final price cpi &amp;lt; 0.3&amp;nbsp; &amp;nbsp; &amp;nbsp;DynamicCPI or 0.5 CPI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="684" y="2552" width="259" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
