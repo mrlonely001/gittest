@@ -671,8 +671,8 @@
         <mxCell id="6JlciY9J8boPAsJgcH0p-41" value="4" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1091" y="2459.25" width="35" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="6JlciY9J8boPAsJgcH0p-42" value="final price cpi &amp;lt; 0.3&amp;nbsp; &amp;nbsp; &amp;nbsp;DynamicCPI or 0.5 CPI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="684" y="2552" width="259" height="26" as="geometry" />
+        <mxCell id="6JlciY9J8boPAsJgcH0p-42" value="final price cpi &amp;lt; 0.3&amp;nbsp; &amp;nbsp; &amp;nbsp;DynamicCPI or 0.5 CPI&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;去掉均衡政策？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="674" y="2552" width="259" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
