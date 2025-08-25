@@ -647,6 +647,9 @@
         <mxCell id="6JlciY9J8boPAsJgcH0p-30" value="Mean（DSP，ML）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="731.3499999999999" y="2440" width="118" height="23" as="geometry" />
         </mxCell>
+        <mxCell id="6JlciY9J8boPAsJgcH0p-32" value="DynamicCPI full" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="603" y="2507" width="188" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
