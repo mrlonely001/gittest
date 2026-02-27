@@ -8,13 +8,13 @@
           <mxGeometry height="220" width="220" x="105" y="100" as="geometry" />
         </mxCell>
         <mxCell id="Nw-mjSq-F8vuQM1We5-N-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#213C07);fontColor=#000000;strokeColor=light-dark(#60A917,#64C10B);" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; L3: cpi&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="155" width="190" x="120" y="115" as="geometry" />
+          <mxGeometry height="175" width="203" x="113.5" y="109" as="geometry" />
         </mxCell>
         <mxCell id="Nw-mjSq-F8vuQM1We5-N-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60A917;fontColor=#ffffff;strokeColor=light-dark(#60A917,#64C10B);" value="&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;L2: dsp&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="105" width="160" x="140" y="125" as="geometry" />
+          <mxGeometry height="121" width="186" x="122" y="117" as="geometry" />
         </mxCell>
         <mxCell id="bKp5JYQIisEyJZ7egQfL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#64C10B);fontColor=#ffffff;strokeColor=light-dark(#60A917,#64C10B);" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;L1: dsp + ml + cpi + 28&lt;/font&gt;" vertex="1">
-          <mxGeometry height="55" width="140" x="150" y="135" as="geometry" />
+          <mxGeometry height="62" width="150" x="149" y="126" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
