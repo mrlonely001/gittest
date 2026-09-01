@@ -31,11 +31,11 @@
         <mxCell id="KFXUbdC8xO5pvf4t4Mxx-12" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" value="" vertex="1">
           <mxGeometry height="302.5" width="26" x="540.25" y="243.75" as="geometry" />
         </mxCell>
-        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="A组&amp;nbsp; 1084台车" vertex="1">
+        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="A组&amp;nbsp; 1344台车" vertex="1">
           <mxGeometry height="26" width="95" x="178" y="423" as="geometry" />
         </mxCell>
-        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="B组&amp;nbsp; &amp;nbsp;946台车" vertex="1">
-          <mxGeometry height="26" width="92" x="507.25" y="423" as="geometry" />
+        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="B组&amp;nbsp; &amp;nbsp;1214&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;台车&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="99" x="504.25" y="423" as="geometry" />
         </mxCell>
         <mxCell id="KFXUbdC8xO5pvf4t4Mxx-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="2026-07-17" vertex="1">
           <mxGeometry height="26" width="79" x="42" y="354" as="geometry" />
