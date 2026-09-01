@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="IGRKiCquVRsWvCHfNbZJ">
+    <mxGraphModel dx="1414" dy="777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-1" parent="1" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
+          <mxGeometry height="20" width="320" x="82" y="332" as="geometry" />
+        </mxCell>
+        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-3" parent="1" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" value="" vertex="1">
+          <mxGeometry height="20" width="336" x="367" y="332" as="geometry" />
+        </mxCell>
+        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="2026-08-05" vertex="1">
+          <mxGeometry height="26" width="79" x="383" y="354" as="geometry" />
+        </mxCell>
+        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="2026-08-04" vertex="1">
+          <mxGeometry height="26" width="79" x="309" y="354" as="geometry" />
+        </mxCell>
+        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="265" as="sourcePoint" />
+            <mxPoint x="510" y="341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="2026-08-13&amp;nbsp; 上线" vertex="1">
+          <mxGeometry height="26" width="110" x="454" y="234" as="geometry" />
+        </mxCell>
+        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-10" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="285" width="30" x="209.5" y="255.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-12" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="302.5" width="26" x="540.25" y="243.75" as="geometry" />
+        </mxCell>
+        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="A组&amp;nbsp; 1084台车" vertex="1">
+          <mxGeometry height="26" width="95" x="178" y="423" as="geometry" />
+        </mxCell>
+        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="B组&amp;nbsp; &amp;nbsp;946台车" vertex="1">
+          <mxGeometry height="26" width="92" x="507.25" y="423" as="geometry" />
+        </mxCell>
+        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="2026-07-17" vertex="1">
+          <mxGeometry height="26" width="79" x="42" y="354" as="geometry" />
+        </mxCell>
+        <mxCell id="KFXUbdC8xO5pvf4t4Mxx-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="2026-08-23" vertex="1">
+          <mxGeometry height="26" width="79" x="661" y="354" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
